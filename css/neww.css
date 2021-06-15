@@ -1,0 +1,47 @@
+body{
+
+	background: red;
+
+}
+.title{
+color: white;
+position: center;
+padding; 100px;
+	
+}
+.conte{
+	background:purple;
+	position: center;
+	padding: 40px;
+}
+.bienvenido{
+	color: orange;
+}
+.registro{
+	color: black;
+	font-size: 25px;
+}
+.regresa{
+	color: green;
+	font-size: 12px;
+}
+
+.boton .submit{
+	 width: auto;
+	 padding: 10px;
+	 background: white;
+	 color: black;
+	 font-size: 12px;
+	 margin-bottom: 25px;
+	 border-top-style: none;
+	 border-left-style: none;
+	 border-right-style: none;
+	 border-bottom: 1px solid #a8a8a8;
+	 cursor: pointer;
+	 border-radius: 10%;
+	 box-shadow: 0 0 3px 0 rgba(0, 0, 0, .2);
+ }
+ .boton input:active,
+ .boton input:focus{
+	 outline: none;
+ }

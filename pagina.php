@@ -3,7 +3,7 @@
 <head>
 <title></title>
 <meta <charset="utf-8">
-<link href="css/nuevo.css" rel="stylesheet"/>
+<link href="css/neww.css" rel="stylesheet"/>
 <script src="js/main.js"></script>
 </head>
 <body>
@@ -11,7 +11,11 @@
 <div class="title">
 <main class="title">
 <h1> USUARIO NUEVO </h1>
-<h2> BIENVENIDO </h12>
+</main>
+</div>
+<div class="bienvenido">
+<h2> BIENVENIDO </h2><br>
+</div>
 <div class="registro">
   <main class="conte">
   <div class="contenedor-nuevos">
@@ -20,8 +24,15 @@
 echo $_POST['usuaria']."<br>"."<br>";
 echo $_POST['correo']."<br>"."<br>";
 ?>
-<form
 </div>
+<div class="regresa">
+<h2> REGRESA AL MENU PRINCIPAL E INGRESA CON TU USUARIO </H2>
+</div>
+<div class="boton">
+<form action="script.php" >
+	<input type="submit" class="submit" value="continuar"><br>
+	</form>
+	</div>
 </main>
 </div>
 </div>
