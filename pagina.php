@@ -11,19 +11,20 @@
 <div class="title">
 <main class="title">
 <h1> USUARIO NUEVO </h1>
-<h2> BIENVENIDO </H2>
+<h2> BIENVENIDO </h12>
 <div class="registro">
   <main class="conte">
   <div class="contenedor-nuevos">
-  <?php
+<?php
 //var_dump($_POST);
 echo $_POST['usuario']."<br>"."<br>";
-echo $_POST['correo']."<br>"."<br>;
+echo $_POST['correo']."<br>"."<br>";
 ?>
+<form
 </div>
 </main>
 </div>
 </div>
-
-
-
+</div>
+</body>
+</html>

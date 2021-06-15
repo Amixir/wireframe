@@ -27,16 +27,17 @@
 //var_dump($_POST);
 echo $_POST['usuario']."<br>"."<br>";
 ?>
-</div>
+
+
+<form action="index.html" >
+	<input type="submit" class="submit" value="salir"><br>
+	</form>
+	</div>
 	</main>
 	</div>
 </div>
 </div>
 </div>
-
-<form action="index.html" >
-	<input type="submit" class="submit" value="salir"><br>
-	</form>
 	</body>
 	</html>
 	
