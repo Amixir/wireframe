@@ -17,7 +17,7 @@
   <div class="contenedor-nuevos">
 <?php
 //var_dump($_POST);
-echo $_POST['usuario']."<br>"."<br>";
+echo $_POST['usuaria']."<br>"."<br>";
 echo $_POST['correo']."<br>"."<br>";
 ?>
 <form
