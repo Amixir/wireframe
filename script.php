@@ -14,7 +14,7 @@
 <main class="title">
 <h1> USUARIOS REGISTRADOS </h1>
 </main>	
-<div class="user-container">
+<div class="login-container">
 <div class="usuarios">
 <main class="contenedor">
 	<div class"contenedor-usuarios">
@@ -29,7 +29,15 @@ echo $_POST['usuario']."<br>"."<br>";
 ?>
 </div>
 	</main>
+	</div>
+</div>
+</div>
+</div>
 
 <form action="index.html" >
 	<input type="submit" class="submit" value="salir"><br>
 	</form>
+	</body>
+	</html>
+	
+	
