@@ -17,8 +17,6 @@
 <h2> BIENVENIDO </h2><br>
 </div>
 <div class="registro">
-  <main class="conte">
-  <div class="contenedor-nuevos">
 <?php
 //var_dump($_POST);
 echo $_POST['usuaria']."<br>"."<br>";
@@ -29,7 +27,7 @@ echo $_POST['correo']."<br>"."<br>";
 <h2> REGRESA AL MENU PRINCIPAL E INGRESA CON TU USUARIO </H2>
 </div>
 <div class="boton">
-<form action="script.php" >
+<form action="index.html" >
 	<input type="submit" class="submit" value="continuar"><br>
 	</form>
 	</div>
