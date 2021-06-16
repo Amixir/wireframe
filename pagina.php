@@ -31,7 +31,6 @@ echo $_POST['correo']."<br>"."<br>";
 	<input type="submit" class="submit" value="continuar"><br>
 	</form>
 	</div>
-</main>
 </div>
 </div>
 </div>
